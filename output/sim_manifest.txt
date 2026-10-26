@@ -1,0 +1,12 @@
+生成时间: 2026-10-22 19:15:31
+R 版本: R version 4.6.0 (2026-04-24 ucrt)
+RNGkind: Mersenne-Twister / Inversion / Rejection
+SEED_DESIGN = 2026
+SEED_BASE   = 2026000（第 s 情景第 r 次重复的种子 = SEED_BASE + 1000*s + r）
+SEED_FIG    = 2027
+重复次数 R = 500
+样本量 n   = 100
+robustbase = 0.99.7
+MASS       = 7.3.65
+quantreg   = 6.1
+sim_summary.csv 的 MD5: 30702f47f9793fb0341c8dffd7d782ff

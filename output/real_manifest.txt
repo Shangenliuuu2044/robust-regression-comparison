@@ -1,0 +1,9 @@
+生成时间: 2026-10-22 19:16:35
+R 版本: R version 4.6.0 (2026-04-24 ucrt)
+RNGkind: Mersenne-Twister / Inversion / Rejection
+SEED_BOOT = 2026（第 b 次自助抽样种子 = SEED_BOOT + b）
+SEED_CARS = 3026
+自助重复数 B = 1000 / 1000
+robustbase = 0.99.7
+real_phones.csv 的 MD5: c873e6e4a8600c79dfcb888b3b4e12eb
+real_cars.csv   的 MD5: e0d8ca830c96bc6460fee9f74192a236
